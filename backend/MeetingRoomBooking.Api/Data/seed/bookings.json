@@ -1,0 +1,50 @@
+[
+  {
+    "id": "booking-atlas-standup",
+    "roomId": "room-atlas",
+    "userId": "user-admin",
+    "title": "Product leadership sync",
+    "startTime": "2026-10-02T02:00:00.0000000Z",
+    "endTime": "2026-10-02T03:30:00.0000000Z",
+    "status": "Confirmed",
+    "attendees": 8,
+    "notes": "Quarterly roadmap review",
+    "createdAt": "2026-10-01T04:20:00.0000000Z"
+  },
+  {
+    "id": "booking-orbit-design",
+    "roomId": "room-orbit",
+    "userId": "user-alex",
+    "title": "Design critique",
+    "startTime": "2026-10-02T04:00:00.0000000Z",
+    "endTime": "2026-10-02T05:00:00.0000000Z",
+    "status": "Confirmed",
+    "attendees": 5,
+    "notes": "Bring the latest prototype",
+    "createdAt": "2026-10-01T09:10:00.0000000Z"
+  },
+  {
+    "id": "booking-nova-training",
+    "roomId": "room-nova",
+    "userId": "user-admin",
+    "title": "New starter training",
+    "startTime": "2026-10-02T07:00:00.0000000Z",
+    "endTime": "2026-10-02T09:00:00.0000000Z",
+    "status": "Confirmed",
+    "attendees": 16,
+    "notes": "Training materials in Drive",
+    "createdAt": "2026-10-01T11:45:00.0000000Z"
+  },
+  {
+    "id": "booking-cancelled-demo",
+    "roomId": "room-atlas",
+    "userId": "user-alex",
+    "title": "Cancelled customer call",
+    "startTime": "2026-10-02T09:00:00.0000000Z",
+    "endTime": "2026-10-02T10:00:00.0000000Z",
+    "status": "Cancelled",
+    "attendees": 3,
+    "notes": "Rescheduled",
+    "createdAt": "2026-10-01T13:05:00.0000000Z"
+  }
+]

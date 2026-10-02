@@ -1,0 +1,38 @@
+[
+  {
+    "id": "room-atlas",
+    "name": "Atlas Boardroom",
+    "floor": 3,
+    "capacity": 12,
+    "amenities": ["Video conferencing", "Whiteboard", "Display"],
+    "status": "Available",
+    "createdAt": "2026-09-01T08:00:00.0000000Z"
+  },
+  {
+    "id": "room-orbit",
+    "name": "Orbit Studio",
+    "floor": 3,
+    "capacity": 8,
+    "amenities": ["Video conferencing", "Display"],
+    "status": "Available",
+    "createdAt": "2026-09-01T08:00:00.0000000Z"
+  },
+  {
+    "id": "room-nova",
+    "name": "Nova Workshop",
+    "floor": 4,
+    "capacity": 20,
+    "amenities": ["Whiteboard", "Flexible seating", "Display"],
+    "status": "Available",
+    "createdAt": "2026-09-01T08:00:00.0000000Z"
+  },
+  {
+    "id": "room-lumen",
+    "name": "Lumen Huddle",
+    "floor": 4,
+    "capacity": 4,
+    "amenities": ["Display", "Phone booth"],
+    "status": "Maintenance",
+    "createdAt": "2026-09-01T08:00:00.0000000Z"
+  }
+]

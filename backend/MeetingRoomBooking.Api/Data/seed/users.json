@@ -1,0 +1,20 @@
+[
+  {
+    "id": "user-admin",
+    "name": "Maya Thompson",
+    "email": "admin@meetingroom.local",
+    "role": "Admin",
+    "passwordHash": "V3W6WOinDaOEYCgja2Z5/QJbr7j6y5OfZu4y23AEUV0=",
+    "passwordSalt": "bWVldGluZy1yb29tLXNhbHQ=",
+    "createdAt": "2026-09-01T08:00:00.0000000Z"
+  },
+  {
+    "id": "user-alex",
+    "name": "Alex Chen",
+    "email": "user@meetingroom.local",
+    "role": "Member",
+    "passwordHash": "BZakYUvDGprm6rOEWqzgZ5ZSeHBmIC+s80wyv+oKHWs=",
+    "passwordSalt": "bWVldGluZy1yb29tLXVzZXI=",
+    "createdAt": "2026-09-12T08:00:00.0000000Z"
+  }
+]
